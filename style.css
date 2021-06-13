@@ -45,3 +45,43 @@ table {
     margin: 50px;
     color: #242424;
 }
+
+.navi {
+    background: blue;
+    position: sticky;
+    top: 0;
+}
+
+footer {
+    background: #555;
+}
+
+header {
+    background: #222;
+}
+
+section {
+    background: #ccc;
+    display: flex;
+}
+
+article {
+    background: #999;
+    padding: 20px;
+    margin: 20px;
+}
+
+article:nth-of-type(1) {
+    flex: 400px;
+}
+
+article:nth-of-type(2) {
+    flex: 400px;
+}
+
+.img-container {
+    background: pink;
+    height: 320px;
+    width: 180px;
+    float: left;
+}
