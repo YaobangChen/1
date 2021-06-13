@@ -18,7 +18,6 @@ h1 {
 
 p {
     line-height: 1.4em;
-    width: 800px;
 }
 
 #blog {
@@ -27,4 +26,22 @@ p {
 
 .blog-post {
     border-bottom: 1px dotted #ccc;
+}
+
+#form {
+    border-top: 1px dotted #ccc;
+}
+
+label {
+    line-height: 1.4em;
+}
+
+h2 {
+    font-size: 2.5em;
+    margin: 0;
+}
+
+table {
+    margin: 50px;
+    color: #242424;
 }
