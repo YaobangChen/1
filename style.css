@@ -72,16 +72,16 @@ article {
 }
 
 article:nth-of-type(1) {
-    flex: 400px;
+    flex: 800px;
 }
 
 article:nth-of-type(2) {
-    flex: 400px;
+    flex: 800px;
 }
 
 .img-container {
     background: pink;
-    height: 320px;
-    width: 180px;
-    float: left;
+    height: 350px;
+    width: 200px;
+    float: right;
 }
